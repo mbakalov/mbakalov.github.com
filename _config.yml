@@ -1,0 +1,10 @@
+title: Mikhail Bakalov
+email: mike@mbakalov.com
+baseurl: ""
+url: "https://mbakalov.com"
+github_username: mbakalov
+linkedin_username: mbakalov
+
+theme: minima
+plugins:
+  - jekyll-feed
