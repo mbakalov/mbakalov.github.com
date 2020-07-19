@@ -7,5 +7,6 @@ github_username: mbakalov
 linkedin_username: mbakalov
 
 theme: minima
+show_excerpts: true
 plugins:
   - jekyll-feed
