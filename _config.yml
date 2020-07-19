@@ -6,6 +6,9 @@ url: "https://mbakalov.com"
 github_username: mbakalov
 linkedin_username: mbakalov
 
+disqus:
+    shortname: mbakalov
+
 theme: minima
 plugins:
   - jekyll-feed
