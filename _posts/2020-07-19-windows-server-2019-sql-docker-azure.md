@@ -5,7 +5,7 @@ title: "Running a SQL Server (Windows) Docker image on a Windows Server 2019 hos
 
 ## Introduction
 
-For some experiments in setting up parallel execution of NUnit tests that use a SQL Server database{% comment %}([series here]({% post_url 2020-07-19-nunit-integration-parallel-teamcity-part0 %})){% endcomment %},
+For some experiments in setting up parallel execution of NUnit tests that use a SQL Server database ([series here]({% post_url 2020-07-26-nunit-integration-parallel-teamcity-part0 %})),
 one of the things I wanted to try is a scenario when the SQL Server is deployed in a container image with the host being the TeamCity build agent itself.
 
 I wanted to avoid doing a full SQL Server install on the agent (or elsewhere) and thought a container would be an interesting option to try. Overall it turned out to be a bit
